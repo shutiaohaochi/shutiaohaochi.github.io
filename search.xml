@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/08/31/hello-world/</url>
+    <content><![CDATA[<p>这是本站第一篇短文，值得记录这种从0到1从无到有的过程。</p>
+<h3 id="感谢知乎大佬-叶枫的教程让本没有编程经验的普通人也有机会免费搭建自己的网站。"><a href="#感谢知乎大佬-叶枫的教程让本没有编程经验的普通人也有机会免费搭建自己的网站。" class="headerlink" title="感谢知乎大佬 叶枫的教程让本没有编程经验的普通人也有机会免费搭建自己的网站。"></a>感谢知乎大佬 <a href="https://www.zhihu.com/people/mai-nv-hai-de-xiao-huo-chai-35-19">叶枫</a>的<a href="https://www.zhihu.com/column/c_1201860091307458560">教程</a>让本没有编程经验的普通人也有机会免费搭建自己的网站。</h3><div class="note default">
+            <h3 id="灰色"><a href="#灰色" class="headerlink" title="灰色"></a>灰色</h3><p>本文用于测试</p>
+          </div>
+
+<div class="note info">
+            <h3 id="蓝色"><a href="#蓝色" class="headerlink" title="蓝色"></a>蓝色</h3><p>本文用于测试</p>
+          </div>
+
+<div class="note primary">
+            <h3 id="紫色"><a href="#紫色" class="headerlink" title="紫色"></a>紫色</h3><p>本文用于测试</p>
+          </div>
+
+<div class="note success">
+            <h3 id="绿色"><a href="#绿色" class="headerlink" title="绿色"></a>绿色</h3><p>本文用于测试</p>
+          </div>
+
+<div class="note warning">
+            <h3 id="黄色"><a href="#黄色" class="headerlink" title="黄色"></a>黄色</h3><p>本文用于测试</p>
+          </div>
+
+<div class="note danger">
+            <h3 id="红色"><a href="#红色" class="headerlink" title="红色"></a>红色</h3><p>本文用于测试</p>
+          </div>
+
+<span class="label default">暴食</span><span class="label primary">色欲</span>，<span class="label default">贪婪</span><span class="label success">暴怒</span>。
+
+
+
+<span class="label info">懒惰</span><span class="label danger">忧郁</span>，<span class="label warning">虚荣</span><mark>傲慢</mark>。
+
+
+
+
+
+<a class="btn" href="mailto:1046524192@qq.com" title="title">发邮件给作者</a>
+
+
+
+
+
+
+
+
+
+
+]]></content>
+  </entry>
+</search>
